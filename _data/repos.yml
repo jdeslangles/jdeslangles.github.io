@@ -1,0 +1,6 @@
+- name: Twitter 
+  url: https://twitter.com/foo 
+- name: Google Plus 
+  url: https://plus.google.com/bar
+- name: Facebook
+  url: https://facebook.com/baz
